@@ -7,9 +7,9 @@ Advent of Code is an Advent calendar of small programming puzzles for a variety 
 | ----- | ----- | -------- |
 | 1 | YES!! | Python |
 | 2 | YES!! | Python |
-| 3 | NOT OUT | Python |
-<!--
+| 3 | OUT but not FINISHED | Python |
 | 4 | NOT OUT | Python |
+<!--
 | 5 | NOT OUT | Python |
 | 6 | NOT OUT | Python |
 | 7 | NOT OUT | Python |
